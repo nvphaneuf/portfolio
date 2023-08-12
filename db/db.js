@@ -151,8 +151,8 @@ export const experience = [
     duration: "June 2023 - Present",
     subtitle: "Clinical Operations Fellowship",
     details: [
-      "Clinical operations military fellow, providing comprehensive support to clinic staff and providers to deliver high-quality patient care."
-      "Cooperated with senior leadership to recognize the imperative for process implementation aimed at curbing patient readmissions, leading to the formation and guidance of an 8-member workgroup responsible for establishing comprehensive protocols impacting the entire clinic.Spearheaded the design of innovative strategies to identify high-risk patients and develop an effective protocol."
+      "Clinical operations military fellow, providing comprehensive support to clinic staff and providers to deliver high-quality patient care.",
+      "Cooperated with senior leadership to recognize the imperative for process implementation aimed at curbing patient readmissions, leading to the formation and guidance of an 8-member workgroup responsible for establishing comprehensive protocols impacting the entire clinic.Spearheaded the design of innovative strategies to identify high-risk patients and develop an effective protocol.",
     ],
     tags: ["Process Improvement", "Management By Objectives", "Business Strategy"],
     icon: "heartbeat",
@@ -189,7 +189,7 @@ export const education = [
     subtitle: "Arizona State University",
     details: [
       "GPA 3.7",
-      "Genomics Research Experience using command line programming skills as applied to DNA sequences to study sex chromosomes and cancer."
+      "Genomics Research Experience using command line programming skills as applied to DNA sequences to study sex chromosomes and cancer.",
     ],
     tags: [
       "Data Structures & Algorithms",
