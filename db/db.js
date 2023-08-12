@@ -1,39 +1,38 @@
 export const bio = [
   "Hello there &#128075;",
-  "I'm Vinay Somawat, a Software Engineer at Biofourmis India with a specialization in JavaScript Applications. I have a passion for all things tech and consider myself a curious and enthusiastic developer.",
-  "Apart from coding, I love to read, listen to music, and travel.",
+  "I'm Nadia Phaneuf. I am a Respiratory Therapist by trade with six years of active duty US Army. I am currently a transitioning service member. I have a passion for all things healthcare data analytics and process improvement.",
   "As a lifelong learner, I'm always seeking new knowledge and experiences to broaden my perspective and enhance my skills.",
   "Thanks for taking the time to learn a little about me!",
 ];
 
 export const skills = [
   {
-    title: "Languages",
-    skillName: "JavaScript, TypeScript",
+    title: "PI",
+    skillName: "Process Improvement",
     color: "1",
     percentage: "80",
   },
   {
-    title: "Frameworks/Libraries",
-    skillName: "Angular, Rxjs, Ngxs",
+    title: "SQL",
+    skillName: "SQL",
     color: "6",
-    percentage: "70",
+    percentage: "40",
   },
   {
-    title: "Design",
-    skillName: "HTML, Bootstrap, Tailwind",
+    title: "Visualization",
+    skillName: "Tableau, Power BI",
     color: "4",
-    percentage: "70",
+    percentage: "30",
   },
   {
-    title: "Version Control",
-    skillName: "GitHub, JIRA, Bitbucket",
+    title: "Data Analytics",
+    skillName: "Data Analytics",
     color: "7",
     percentage: "70",
   },
   {
-    title: "Tools",
-    skillName: "Postman, Chrome DevTools",
+    title: "Soft Skills",
+    skillName: "Cross-functional collaboration",
     color: "3",
     percentage: "80",
   },
@@ -42,12 +41,6 @@ export const skills = [
     skillName: "CleverTap, Countly",
     color: "5",
     percentage: "50",
-  },
-  {
-    title: "Editor",
-    skillName: "VS Code",
-    color: "6",
-    percentage: "70",
   },
 ];
 
@@ -154,69 +147,63 @@ export const projects = {
 
 export const experience = [
   {
-    title: "Biofourmis India Pvt. Ltd.",
-    duration: "April 2022 - Present",
-    subtitle: "Software Engineer",
+    title: "WellMed Medical Management",
+    duration: "June 2023 - Present",
+    subtitle: "Clinical Operations Fellowship",
     details: [
-      "Currently involved in developing healthcare and digital therapeutics products."
+      "Clinical operations military fellow, providing comprehensive support to clinic staff and providers to deliver high-quality patient care."
+      "Cooperated with senior leadership to recognize the imperative for process implementation aimed at curbing patient readmissions, leading to the formation and guidance of an 8-member workgroup responsible for establishing comprehensive protocols impacting the entire clinic.Spearheaded the design of innovative strategies to identify high-risk patients and develop an effective protocol."
     ],
-    tags: ["JavaScript", "Angular", "Bootstrap", "Nodejs", "Jenkins"],
+    tags: ["Process Improvement", "Management By Objectives", "Business Strategy"],
     icon: "heartbeat",
   },
   {
-    title: "Novopay Solutions Pvt. Ltd.",
-    duration: "June 2020 - April 2022",
-    subtitle: "Software Engineer",
+    title: "US Army",
+    duration: "June 2020 - Present",
+    subtitle: "Respiratory Therapist",
     details: [
-      "Successfully implemented Aadhaar Enabled Payment services, including Bio-metric eKYC, Cash Withdrawal, Balance Enquiry, Mini-Statements, and Money Transfer, achieving more than 20 story points in each sprint.",
-      "Streamlined the process of loading money into the wallet by integrating QR Code, which reduced the time required by 50%. Also implemented Clevertap events to track user actions, Freshdesk ticketing service, and chat-bot services. Contributed to user onboarding, approval, and finance interfaces.",
-      "Collaborated closely with cross-functional teams such as product, backend, android, and QA, ensuring timely delivery of product builds to meet deadlines",
+      "Collaborated with multidisciplinary teams in a Level 1 trauma center with 45+ Intensive Care Unit beds and 450+ inpatient beds to develop and implement evidence-based treatment plans to reduce unnecessary treatments and shortened the timeline of needed respiratory treatments, contributing to improved patient care, operational efficiency, and cost-effectiveness within the organization.",
+      "Led the design and implementation of a supply tracking system, resulting in a remarkable 50% reduction in supply spending and effectively managing and maintaining the flow of resources to ensure their responsible and efficient use.",
+      "Developed and implemented a comprehensive Standard Operating Procedure (SOP) for onboarding respiratory therapists, ensuring adherence to training requirements and competencies, and promoting a consistent and streamlined onboarding process for all new personnel joining the team.",
     ],
-    tags: ["JavaScript", "Angular", "React", "Bootstrap", "Nodejs", "Jenkins"],
-    icon: "qrcode",
+    tags: ["Critical Care", "Content Development", "Education & Training Content Writing"],
+    icon: "heartbeat",
   },
   {
-    title: "ThinkPedia LLP",
-    duration: "May 2019 - June 2019",
-    subtitle: "SDE Intern",
+    title: "US Army",
+    duration: "July 2017 - June 2019",
+    subtitle: "CBRN Specialist",
     details: [
-      "Contributed as a full-stack developer to provide technical support to the team",
-      "Designed and developed a comprehensive Web Application for social media management, starting from the ground up, to cater to customer needs.",
+      "Mentored and guided a group of six Soldiers through targeted professional development, successfully preparing them for promotion by conducting performance evaluations, delivering constructive feedback, and providing tailored developmental advice ultimately leading to their successful promotions.",
+      "Collaborated closely with senior leadership to conceptualize and implement comprehensive CBRNE (Chemical, Biological, Radiological, Nuclear, and Explosive) training program, encompassing the creation of detailed training plans and successful execution, resulting in alignment with leadership objectives and ensuring full staff compliance.",
     ],
-    tags: ["JavaScript", "Angular", "Bootstrap", "Java", "Spring Boot"],
+    tags: ["Project Management",],
     icon: "group",
   },
 ];
 
 export const education = [
   {
-    title: "Bachelors in Computer Science and Engineering",
-    duration: "",
-    subtitle: "National Institute of Technology, Warangal",
+    title: "Bachelors in Biomedical Science, Minor in Data Science",
+    duration: "January 2023 - Present",
+    subtitle: "Arizona State University",
     details: [
-      "I successfully qualified GATE-2020, demonstrating my aptitude and expertise in the field.",
-      "As an active competitive programmer, I have achieved a CodeChef rating of 1841*, showcasing my skills in solving complex programming problems.",
-      "My GitHub projects have earned over 1k stars and forks, a testament to my ability to create high-quality and impactful code.",
+      "GPA 3.7",
+      "Genomics Research Experience using command line programming skills as applied to DNA sequences to study sex chromosomes and cancer."
     ],
     tags: [
       "Data Structures & Algorithms",
-      "Operating Systems",
-      "Database Management System",
-      "Computer Networks",
-      "Compiler Designing",
-      "Cloud Computing",
+      "R",
     ],
     icon: "graduation-cap",
   },
   {
-    title: "Class 11-12th in Science and Mathematics",
+    title: "Associate of Science, Respiratory Care",
     duration: "",
-    subtitle: "Board of Secondary Education, Rajasthan",
-    details: [
-      "I have successfully qualified JEE Advanced, Main, and BITSAT, demonstrating my strong aptitude and skills in these highly competitive exams.",
-      "Additionally, I am proud to have achieved an exceptional 99.5 percentile in my Class 12th Boards Examinations, reflecting my dedication and hard work towards academic excellence.",
+    subtitle: "Uniformed Service University",
+    details: [,
     ],
-    tags: ["Physics", "Chemistry", "Mathematics"],
+    tags: ["Certified Respiratory Therapist"],
     icon: "book",
   },
 ];
@@ -226,16 +213,8 @@ export const footer = [
     label: "Dev Profiles",
     data: [
       {
-        text: "Stackoverflow",
-        link: "https://stackoverflow.com/users/8461233/vinay-somawat",
-      },
-      {
         text: "GitHub",
-        link: "https://github.com/vinaysomawat",
-      },
-      {
-        text: "LeetCode",
-        link: "https://leetcode.com/somawatvinay/",
+        link: "https://github.com/nvphaneuf",
       },
     ],
   },
@@ -261,15 +240,7 @@ export const footer = [
     data: [
       {
         text: "Linkedin",
-        link: "https://www.linkedin.com/in/vinaysomawat/",
-      },
-      {
-        text: "Twitter",
-        link: "https://twitter.com/thesigmakid",
-      },
-      {
-        text: "Buy me a coffee",
-        link: "https://www.buymeacoffee.com/r194dME8y",
+        link: "https://www.linkedin.com/in/nphaneuf/",
       },
     ],
   },
