@@ -988,10 +988,10 @@ body.offcanvas .colorlib-nav-toggle {
 	font-weight: 500;
 }
 .services.color-2 {
-	border-bottom: 2px solid #ec5453;
+	border-bottom: 2px solid #C6D2ED;
 }
 .services.color-2 .icon2 i {
-	color: #ec5453;
+	color: #C6D2ED;
 }
 .services.color-3 {
 	border-bottom: 2px solid #827081;
@@ -1079,13 +1079,13 @@ body.offcanvas .colorlib-nav-toggle {
 	text-transform: uppercase;
 }
 .services.color-2 .icon {
-	background: #ec5453;
+	background: #C6D2ED;
 }
 .services.color-2 .icon:before {
-	border-color: transparent transparent #ec5453 transparent;
+	border-color: transparent transparent #C6D2ED transparent;
 }
 .services.color-2 .icon:after {
-	border-color: #ec5453 transparent transparent transparent;
+	border-color: #C6D2ED transparent transparent transparent;
 }
 .services.color-3 .icon {
 	background: #827081;
@@ -1181,13 +1181,13 @@ body.offcanvas .colorlib-nav-toggle {
 	color: #2c98f0;
 }
 .progress-bar.color-2 {
-	background: #ec5453;
+	background: #C6D2ED;
 }
 .progress-bar.color-2:after {
-	background: #ec5453;
+	background: #C6D2ED;
 }
 .progress-bar.color-2 span {
-	color: #ec5453;
+	color: #C6D2ED;
 	padding-top: 2px;
 }
 
@@ -1228,13 +1228,13 @@ body.offcanvas .colorlib-nav-toggle {
 	color: #4054b2;
 }
 .progress-bar.color-7 {
-	background: #ec5453;
+	background: #C6D2ED;
 }
 .progress-bar.color-7:after {
-	background: #ec5453;
+	background: #C6D2ED;
 }
 .progress-bar.color-7 span {
-	color: #ec5453;
+	color: #C6D2ED;
 }
 .progress-bar.color-8 {
 	background: #827081;
