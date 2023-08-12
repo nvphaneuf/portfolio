@@ -988,10 +988,10 @@ body.offcanvas .colorlib-nav-toggle {
 	font-weight: 500;
 }
 .services.color-2 {
-	border-bottom: 2px solid #C6D2ED;
+	border-bottom: 2px solid #161B33;
 }
 .services.color-2 .icon2 i {
-	color: #C6D2ED;
+	color: #161B33;
 }
 .services.color-3 {
 	border-bottom: 2px solid #AEA3B0;
@@ -1181,13 +1181,13 @@ body.offcanvas .colorlib-nav-toggle {
 	color: #2c98f0;
 }
 .progress-bar.color-2 {
-	background: #C6D2ED;
+	background: #161B33;
 }
 .progress-bar.color-2:after {
-	background: #C6D2ED;
+	background: #161B33;
 }
 .progress-bar.color-2 span {
-	color: #C6D2ED;
+	color: #161B33;
 	padding-top: 2px;
 }
 
